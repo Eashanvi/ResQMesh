@@ -47,3 +47,35 @@
 2026-09-07 19:59:20 SOS #2 Fire [HIGH] Eashanvi
 2026-09-07 19:59:40 SOS #3 Other [MEDIUM] Manya
 2026-09-07 20:00:16 SOS #4 Other [MEDIUM] Harini
+2026-09-07 21:20:38 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 21:20:38 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 21:22:08 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 21:22:08 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 21:22:41 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 21:24:05 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 21:24:05 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 21:26:27 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 21:26:27 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 21:35:38 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 21:35:40 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 21:35:40 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 21:54:30 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 22:58:21 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 22:58:21 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 22:58:22 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 22:58:22 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 22:59:06 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 22:59:08 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 22:59:08 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 22:59:20 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 22:59:22 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 22:59:22 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 22:59:51 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 22:59:53 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 22:59:53 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 23:02:35 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 23:02:35 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 23:05:03 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 23:05:03 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 23:06:14 SOS #5 Accident [HIGH] Ramaa
+2026-09-07 23:29:14 SOS #6 Accident [HIGH] Rama
