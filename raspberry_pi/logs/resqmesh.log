@@ -1,0 +1,49 @@
+2026-09-07 19:03:29 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:09:55 SOS #1 Other [MEDIUM] Ramaa
+2026-09-07 19:17:11 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:17:11 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:17:17 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 19:17:19 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:18:58 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 19:19:00 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:20:13 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:20:13 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:23:37 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 19:23:39 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:23:39 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:24:19 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 19:24:21 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:24:21 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:28:52 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:28:52 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:30:31 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:30:31 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:31:51 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:31:51 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:32:05 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 19:32:07 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:32:07 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:32:52 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:32:52 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:34:45 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:34:45 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:35:50 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:35:50 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:35:59 link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)), retrying
+2026-09-07 19:36:01 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:36:01 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:39:13 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:39:13 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:39:25 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:39:25 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:42:16 SOS #1 Medical [HIGH] Harii
+2026-09-07 19:45:30 SOS #2 Medical [HIGH] Harii
+2026-09-07 19:49:17 SOS #3 Medical [HIGH] Ramaa
+2026-09-07 19:52:43 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:52:43 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:54:10 connected on /dev/ttyUSB0 at 115200 baud
+2026-09-07 19:54:10 waiting for data... (press the ESP32's EN/RST button now if you want to confirm it is alive)
+2026-09-07 19:55:52 SOS #1 Medical [HIGH] Ramaa
+2026-09-07 19:59:20 SOS #2 Fire [HIGH] Eashanvi
+2026-09-07 19:59:40 SOS #3 Other [MEDIUM] Manya
+2026-09-07 20:00:16 SOS #4 Other [MEDIUM] Harini
